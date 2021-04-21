@@ -12,4 +12,30 @@ The goal of this analysis is to highlight areas where Imperfect Foods should dir
 
 Where should Imperfect Product target its marketing efforts to grow its customers for both tiers of the services it offers?  
 
+## Data Description:
+1) 2019 US Census Data
+  -Sex
+  -Race
+  -Income
+  -Age
+  -Snap Benefits
 
+2) 2017 US Food Desert Data
+
+3) 2020/2021 Facebook Mobility Data
+
+I will either scrape or download CSV versions of these files where applicable.
+
+## What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
+
+I expect to use this data to show an interactive map of good areas to target it whether it be SNAP benefits or areas of the country that are still following stronger pandemic protocols.  I expect to give demographic data of the key areas of interest that can be used to cater their marketing strategy and the size of the prize.  
+
+## Tools:
+
+Excel
+Python
+Pandas
+Tableau
+
+## MVP Goal:
+Use a time series to show which states have decrease mobility through the pandemic as well as highlighted food desert areas.
