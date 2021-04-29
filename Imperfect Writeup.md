@@ -13,3 +13,10 @@ There is also a small piece of analysis on tracking Imperfect Produce’s market
 ## Data
 
 The US census data is roughly 3200 rows for each county with 10 features while the US Food data is nearly 73,000 data points with 6 features rolled up to the county level.  SNAP retailer locations included over 200,000 locations along with roughly 250 US Economic data points evaluated at the state level.  Key features included population density, percentage of consumer spending on food, SNAP eligible population juxtaposed against retailer availability and locations of food deserts.This data was evaluated at the county and state level in service of identifying the best markets.
+
+
+## Tools
+
+Tableau for interactive visualizations
+
+Excel for data exploration and manipulation
