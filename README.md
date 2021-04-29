@@ -1,8 +1,8 @@
 # Grocery Delivery Business Case
 
-Since the beginning of Covid one year ago, there has been a massive shift into grocery delievery as less people are able or comfortable to go out to get their own groceries.  With this development, a fantastic opportunity has spung up for delivery services to fill the need of the market. Imperfect Produce is a grocery delivery service that delivers high quality food that isn't accepted by many conventional grocery stores due to the appearance of the food.  Imperfect produce buys this food and sells custom delivered boxes of food as part of a subscription services at a discount to what can be found at most grocery stores.  They are able to sell this food at a discount due to the nature of alternatives with this food either going to waste or being donated.  This helps customers source high quality food for a bargin price, while helping Imperfect Foods bottom line and objectives of reducing food waste and helping the environment.   
+Since the beginning of Covid one year ago, there has been a massive shift into grocery delievery as less people are able or comfortable to go out to get their own groceries.  With this development, a fantastic opportunity has spung up for delivery services to fill the need of the market. Imperfect Produce is a grocery delivery service that delivers high quality food that isn't accepted by many conventional grocery stores due to the appearance of the food.  Imperfect produce buys this food and sells custom delivered boxes of food as part of a subscription services at a discount to what can be found at most grocery stores.  This helps customers source high quality food for a bargin price, while helping Imperfect Foods bottom line and objectives of reducing food waste and helping the environment.   
 
-Imperfect Foods also offers 33% off its service to people elgible for SNAP benefits in an effort to help low income people eat well as often the affordiability and availability of high quality food prevents certain populations from eating a healthy diet.  It is esimated that nearly 25 million people in the United States are in food deserts with more than half of them being low income. 
+Imperfect Foods also offers 33% off its service to people elgible for SNAP benefits in an effort to help low income people eat well as often the affordiability and availability of high quality food prevents certain populations from eating a healthy diet.  In 2010, it was esimated that nearly 25 million people in the United States are in food deserts with low access to grocery stores.
 
 Currently Imperfect Foods reports roughly 350,000 customer so there is a huge opportunity to grow their business both in their main segment as well as helping out people in low income and food desert communities. 
 
@@ -22,13 +22,15 @@ Where should Imperfect Product target its marketing efforts to grow its customer
 
 2) 2017 US Food Desert Data
 
-3) 2020/2021 Facebook Mobility Data
+3) USDA Economic Bureau Consumer Spending
+
+4) Google Trends
 
 I will either scrape or download CSV versions of these files where applicable.
 
 ## What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 
-I expect to use this data to show an interactive map of good areas to target it whether it be SNAP benefits or areas of the country that are still following stronger pandemic protocols.  I expect to give demographic data of the key areas of interest that can be used to cater their marketing strategy and the size of the prize.  
+Using tableau and excel to highlight the states and counties that make the most sense to expand into.  I will be looking for high population, decent median income, SNAP eligiblility, food deserts and population density as factor for looking for counties to target
 
 ## Tools:
 
@@ -37,5 +39,4 @@ Python
 Pandas
 Tableau
 
-## MVP Goal:
-Use a time series to show which states have decrease mobility through the pandemic as well as highlighted food desert areas.
+
