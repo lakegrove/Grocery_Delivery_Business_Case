@@ -24,7 +24,7 @@ Where should Imperfect Product target its marketing efforts to grow its customer
 
 3) USDA Economic Bureau Consumer Spending
 
-4) Google Trends
+4) Google Trends - Competitive Analysis
 
 I will either scrape or download CSV versions of these files where applicable.
 
