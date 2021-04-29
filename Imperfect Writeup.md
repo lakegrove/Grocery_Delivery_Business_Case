@@ -24,5 +24,5 @@ Excel for data exploration and manipulation
 
 ## Communication
 
-In addition to the slides and visuals presented, Food Desert Mappings will be embedded on my personal Tableau profile
+In addition to the slides, Food Desert Mapping and associated visuals will be embedded on my personal Tableau profile
 ![Screen Shot 2021-04-29 at 4 51 18 PM](https://user-images.githubusercontent.com/19785958/116622994-30990080-a90b-11eb-8bf3-04fab6bbd357.png)
