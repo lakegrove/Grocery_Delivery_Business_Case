@@ -13,20 +13,20 @@ The goal of this analysis is to highlight markets where Imperfect Foods should l
 What markets should Imperfect Produce target to grow its customer base in 2021?
 
 ## Data Description:
-1) 2019 US Census Data
+1) [2019 US Census Data](https://data.census.gov/cedsci/all)
   -Sex
   -Race
   -Income
   -Age
   -Snap Benefits
 
-2) 2017 US Food Desert Data
+2) [2017 US Food Desert Data](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)
 
-3) USDA Economic Bureau Consumer Spending
+3) [USDA Economic Bureau Consumer Spending](https://www.bea.gov/data/consumer-spending/state)
 
 4) [SNAP Retail Locator](https://www.fns.usda.gov/snap/retailer-locator)
 
-6) Google Trends - Competitive Analysis
+6) [Google Trends - Competitive Analysis](https://trends.google.com/trends/explore?geo=US&q=imperfect%20produce,misfits%20market)
 
 I will either scrape or download CSV versions of these files where applicable.
 
