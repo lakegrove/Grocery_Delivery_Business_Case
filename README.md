@@ -24,7 +24,7 @@ What markets should Imperfect Produce target to grow its customer base in 2021?
 
 3) USDA Economic Bureau Consumer Spending
 
-4) [SNAP Retail Locator][https://www.fns.usda.gov/snap/retailer-locator]
+4) [SNAP Retail Locator](https://www.fns.usda.gov/snap/retailer-locator)
 
 6) Google Trends - Competitive Analysis
 
