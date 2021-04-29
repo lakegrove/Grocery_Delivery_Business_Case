@@ -1,7 +1,7 @@
 
 ## Abstract
 
-The goal of this project was to recommend markets for Imperfect Produce to enter in 2021 to expand its business after a record year in 2020.  The analysis targeted using US Census, USDA and SNAP data to identify target counties and states that satisfy growing revenue and social impact.  I grouped income, food deserts, population density and SNAP benefit population to form my criteria for market selection. To explore the data, I built visuals in Tableau and excel, assembling an analysis with recommendations of entering the Southeast market, particularly the state of Florida. 
+The goal of this project was to recommend markets for Imperfect Produce to enter in 2021 to expand its business after a record year in 2020.  The analysis targeted using 2019 US Census, 2017 USDA and 2019 SNAP data to identify target counties and states that satisfy growing revenue and social impact.  I grouped income, food deserts, population density and SNAP benefit population to form my criteria for market selection. To explore the data, I built visuals in Tableau and excel, assembling an analysis with recommendations of entering the Southeast market, particularly the state of Florida. 
 
 ## Design
 
@@ -14,6 +14,22 @@ There is also a small piece of analysis on tracking Imperfect Produce’s market
 ## Data
 
 The US census data is roughly 3200 rows for each county with 10 features while the US Food data is nearly 73,000 data points with 6 features rolled up to the county level.  SNAP retailer locations included over 200,000 locations along with roughly 250 US Economic data points evaluated at the state level.  Key features included population density, percentage of consumer spending on food, SNAP eligible population juxtaposed against retailer availability and locations of food deserts.This data was evaluated at the county and state level in service of identifying the best markets.
+
+## Risks and Assumptions
+
+Much of this data is assembled across years varying from 2017 to 2020 and would be best revisted when the 2020 census data is finally available in Q3 of September 2021.  Additionally this analysis doesn't incorporate state regulations or considerations that would impact Imperfect Produce's ability to operate in those markets.
+
+While competition was lightly touched on, there was not enough publically available data to perform a more robust analysis on entering markets that other company's currently operate in.
+
+There is also an underlying assumption that counties with large populations of affluent and low income individuals make for good candidate markets which may be different that what Imperfect Foods is seeing in their current customer profile. 
+
+The last consideation is Covid is potentially coming to an end, so it may be harder to gain new customers in light of reopening counties and states
+
+## Solution Paths
+
+Unexplored solution paths include further Google Trend analysis to see how Imperfect is trending versus Misfits Markets in particular states over time to see where they are losing traction. 
+
+Facebook's mobility data was another unexplored solution path to track counties where people aren't moving around as much as potential candidates in new and current markets to redouble marketing efforts. 
 
 
 ## Algorithm / Tools
