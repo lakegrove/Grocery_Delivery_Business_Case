@@ -1,3 +1,4 @@
+
 ## Abstract
 
 The goal of this project was to recommend markets for Imperfect Produce to enter in 2021 to expand its business after a record year in 2020.  The analysis targeted using US Census, USDA and SNAP data to identify target counties and states that satisfy growing revenue and social impact.  I grouped income, food deserts, population density and SNAP benefit population to form my criteria for market selection. To explore the data, I built visuals in Tableau and excel, assembling an analysis with recommendations of entering the Southeast market, particularly the state of Florida. 
@@ -24,3 +25,4 @@ Excel for data exploration and manipulation
 ## Communication
 
 In addition to the slides and visuals presented, Food Desert Mappings will be embedded on my personal Tableau profile
+![Screen Shot 2021-04-29 at 4 51 18 PM](https://user-images.githubusercontent.com/19785958/116622994-30990080-a90b-11eb-8bf3-04fab6bbd357.png)
