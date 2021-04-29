@@ -14,11 +14,6 @@ What markets should Imperfect Produce target to grow its customer base in 2021?
 
 ## Data Description:
 1) [2019 US Census Data](https://data.census.gov/cedsci/all)
-  -Sex
-  -Race
-  -Income
-  -Age
-  -Snap Benefits
 
 2) [2017 US Food Desert Data](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)
 
