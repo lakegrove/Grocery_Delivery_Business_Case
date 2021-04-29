@@ -25,7 +25,7 @@ There is also an underlying assumption that counties with large populations of a
 
 The last consideation is Covid is potentially coming to an end, so it may be harder to gain new customers in light of reopening counties and states
 
-## Solution Paths
+## Alternative Solution Paths
 
 Unexplored solution paths include further Google Trend analysis to see how Imperfect is trending versus Misfits Markets in particular states over time to see where they are losing traction. 
 
