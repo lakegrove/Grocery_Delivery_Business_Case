@@ -1,5 +1,7 @@
 # Grocery Delivery Business Case
 
+[Imperfect Tableau Visualization](https://public.tableau.com/profile/jonathan.wyatt#!/)
+
 Since the beginning of Covid one year ago, there has been a massive shift into grocery delievery and this has provided a fantastic opportunity for companies like Imperfect Produce, an online grocery retailer.  Imperfect delivers high quality food that isn't accepted by many conventional grocery stores due to the appearance of the food.  This allows Imperfect to sell custom delivered boxes of food as part of a subscription services at a discount to what can be found at most grocery stores.  Their service helps customers source high quality food for a bargin price, while helping Imperfect Foods bottom line and mission towards reducing food waste and helping the environment.   
 
 Imperfect Foods also offers 33% off its service to people elgible for SNAP benefits in an effort to help low income people eat well as often the affordiability and availability of high quality food prevents certain populations from eating a healthy diet.  In 2010, it was esimated that nearly 25 million people in the United States are in food deserts with low access to grocery stores.
