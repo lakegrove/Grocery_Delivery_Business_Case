@@ -35,8 +35,11 @@ Using tableau and excel to highlight the states and counties that make the most 
 ## Tools:
 
 Excel
+
 Python
+
 Pandas
+
 Tableau
 
 
