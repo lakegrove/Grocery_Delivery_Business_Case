@@ -10,7 +10,7 @@ The goal of this analysis is to highlight markets where Imperfect Foods should l
 
 ## Question/need:
 
-Where should Imperfect Product target its marketing efforts to grow its customers for both tiers of the services it offers?  
+What markets should Imperfect Produce target to grow its customer base in 2021?
 
 ## Data Description:
 1) 2019 US Census Data
