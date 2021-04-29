@@ -37,8 +37,6 @@ Excel
 
 Python
 
-Pandas
-
 Tableau
 
 
